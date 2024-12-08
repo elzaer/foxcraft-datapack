@@ -1,4 +1,4 @@
-# foxcraft-datapack
+# Foxcraft Datapack Overview
 Custom Minecraft Mod for a more interesting Survival Experience.  This data-pack attempts to keep the Vanilla experience but adding spice and flavour to keep it interesting.  Some of the loot tables, game rules and configurations are designed to stop the shortcut hacks to obtaining equipment, enchantments etc.
 
 # Custom Trader
